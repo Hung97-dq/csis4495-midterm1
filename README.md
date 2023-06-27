@@ -1,4 +1,4 @@
-# csis4495-mifterm
+# csis4495-midterm
 
 ## Login as Test User on demo site:
 Email: test@gmail.com
