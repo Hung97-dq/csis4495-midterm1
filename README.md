@@ -1,4 +1,4 @@
-# csis4495-report-1
+# csis4495-mifterm
 
 ## Login as Test User on demo site:
 Email: test@gmail.com
